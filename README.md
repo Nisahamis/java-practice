@@ -1,2 +1,3 @@
 # java-practice
-Java practice exercises and algorithms
+Java practice exercises, algorithms and simple projects
+
